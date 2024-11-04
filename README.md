@@ -30,4 +30,4 @@
 * [Tisdag]() - Semantisk HTML och landmarks
 * [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag]() - Box-modellen, positionering, logical properties
-* [Fredag]() - Code review på deras recept-övning. CSS-selektorer
+* [Fredag]() - Code review på recept-övningen. CSS-selektorer

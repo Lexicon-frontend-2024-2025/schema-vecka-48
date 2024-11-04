@@ -20,6 +20,7 @@
 
 ## Slides:
 * [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
+* [Layout mindset](https://docs.google.com/presentation/d/1PFbZRFADmdoNMNKOK9pLxfmdl87-CSVipjwhV1IKcPc/edit#slide=id.g33d96f2301_0_16)
 
 ## Lektionsrepon:
 * [Måndag](): 

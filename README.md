@@ -10,7 +10,7 @@
 
 ## Material
 #### E-Learning:
-[Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material)
+[Samlat innehåll för hela kursen](https://github.com/Lexicon-frontend-2024-2025/e-learning)
 #### Utvalda för denna veckan:
 * []()
 #### Läsning:

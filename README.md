@@ -25,5 +25,8 @@
 * [HTML, semantik](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
 
 ## Lektionsrepon:
-* [Måndag](): 
-* [Tisdag](): 
+* [Måndag]() - Hur en dag ser ut, relevanta verktyg, förhållningssätt, presentationer av klassen
+* [Tisdag]() - Semantisk HTML och landmarks
+* [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
+* [Torsdag]() - Box-modellen, positionering, logical properties
+* [Fredag]() - CSS-selektorer

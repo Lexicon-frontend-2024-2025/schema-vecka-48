@@ -27,6 +27,7 @@
 * [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer)
 
 ## Slides
+* [Intro till kursen](https://docs.google.com/presentation/d/1tsH95pL3ailFghCljPgBz0IiEmjFP4BSwFan8s9vjvA/edit?usp=sharing)
 * [Intro, HTML](https://docs.google.com/presentation/d/1c8aKRb-ZdfwApzSCnjhKsL3kFGmIdqBJgBV_1OaJrtI/edit#slide=id.g5fd0d48a39_2_73)
 * [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
 * [Layout mindset](https://docs.google.com/presentation/d/1PFbZRFADmdoNMNKOK9pLxfmdl87-CSVipjwhV1IKcPc/edit#slide=id.g33d96f2301_0_16)

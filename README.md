@@ -12,7 +12,10 @@
 #### E-Learning:
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-frontend-2024-2025/e-learning)
 #### Utvalda för denna veckan:
-* [Nytt i HTML5/Semantiska element (Del 1 & 2 av kursen)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+* [Nytt i HTML5/Semantiska element (del 1 & 2 av kursen)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+* [Clean Code/Accessibility (del 5)](https://app.pluralsight.com/ilx/video-courses/8931e14f-58e5-4a59-b8c1-d8d1ddfd3ba8/00be1ca4-1cca-49d0-bd19-2cd6931f9ebb/06125ef3-cc36-4490-a93d-e7147305a13b)
+* [Accessible navigation (del 6)](https://app.pluralsight.com/ilx/video-courses/1973ad45-0e12-4833-8a2a-b698256b7ffd/aece0a71-44be-4e73-900d-0018bb044ade/b4b6156b-3563-4504-be53-1e3f88fe429a)
+* [CSS pseudo classes - :is(), :where(), :has()](https://www.youtube.com/watch?v=3ncFpP8GP4g) 
 #### Läsning:
 * [Logical properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values)
 

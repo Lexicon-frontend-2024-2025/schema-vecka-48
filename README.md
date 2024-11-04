@@ -19,5 +19,8 @@
 ## Övningar:
 
 ## Slides:
+* [Intro till HTML](https://docs.google.com/presentation/d/1c8aKRb-ZdfwApzSCnjhKsL3kFGmIdqBJgBV_1OaJrtI/edit#slide=id.g5fd0d48a39_2_73)
 
 ## Lektionsrepon:
+* [Måndag](): 
+* [Tisdag](): 

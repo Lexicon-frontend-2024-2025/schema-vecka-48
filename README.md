@@ -17,6 +17,7 @@
 * []()
 
 ## Övningar:
+* [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer)
 
 ## Slides:
 * [Intro, HTML](https://docs.google.com/presentation/d/1c8aKRb-ZdfwApzSCnjhKsL3kFGmIdqBJgBV_1OaJrtI/edit#slide=id.g5fd0d48a39_2_73)
@@ -29,4 +30,4 @@
 * [Tisdag]() - Semantisk HTML och landmarks
 * [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag]() - Box-modellen, positionering, logical properties
-* [Fredag]() - CSS-selektorer
+* [Fredag]() - Code review på deras recept-övning. CSS-selektorer

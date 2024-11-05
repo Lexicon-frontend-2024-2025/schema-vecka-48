@@ -5,7 +5,7 @@
 
 ## Mål för veckan
 1. Förståelse för varför semantik är viktig inom HTML
-2. Tillgänglig design
+2. Förstå tillgänglig design och kunna några verktyg för detta
 3. Kunna använda dig av flera olika CSS-selektorer
 4. Kunna positionera element i din HTML med CSS
 

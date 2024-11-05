@@ -21,9 +21,12 @@
 * [CSS Box model](https://www.youtube.com/watch?v=nSst4-WbEZk)
 * [CSS pseudo classes - :is(), :where(), :has()](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 #### Läsning
+* [HTML i VS Code](https://code.visualstudio.com/Docs/languages/html)
+* [VS Code Emmet](https://code.visualstudio.com/docs/editor/emmet)
 * [Logical properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values)
 #### Verktyg
 * [WAVE Extension](https://wave.webaim.org/extension/)
+* [Live Preview Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
 ## Övningar
 * [HTML5 elements challenges](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/4587d9b6-badd-43dd-87a2-2b04df9258f6/9cf34da2-a2b0-4c61-8136-5edc75928667)

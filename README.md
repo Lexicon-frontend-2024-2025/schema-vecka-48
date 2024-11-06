@@ -44,4 +44,4 @@
 * [Tisdag]() - Semantisk HTML och landmarks
 * [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag]() - Box-modellen, positionering, logical properties
-* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2024-2025/code-review-instruktioner) på recept-övningen (2 stars and a wish). Genomgång av CSS-selektorer
+* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2024-2025/code-review-instruktioner) på recept-övningen (2 stars and a wish) ni fick under ToK. Genomgång av CSS-selektorer

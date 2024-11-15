@@ -40,7 +40,7 @@
 * [HTML, semantik](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
 
 ## Lektionsrepon
-* [Måndag]() - Hur en dag ser ut, relevanta verktyg, förhållningssätt, presentationer av klassen
+* [Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-25-nov) - Hur en dag ser ut, relevanta verktyg, förhållningssätt, presentationer av klassen
 * [Tisdag]() - Semantisk HTML och landmarks
 * [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag]() - Box-modellen, positionering, logical properties

@@ -42,7 +42,7 @@
 
 ## Lektionsrepon
 * [Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-25-nov) - Hur en dag ser ut, relevanta verktyg, förhållningssätt, presentationer av klassen
-* Tisdag - Semantisk HTML och landmarks
+* [Tisdag - Semantisk HTML och landmarks codealong-kodexexempel] (https://github.com/Lexicon-frontend-2024-2025/lektionsrepo-26-11-kodexempel-html-semantik-)
 * [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag]() - Box-modellen, positionering, logical properties
 * [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2024-2025/code-review-instruktioner) på recept-övningen (2 stars and a wish) ni fick under ToK. Genomgång av CSS-selektorer

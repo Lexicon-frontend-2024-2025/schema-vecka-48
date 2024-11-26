@@ -13,7 +13,7 @@
 #### E-Learning:
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-frontend-2024-2025/e-learning)
 #### Utvalda för denna veckan:
-* [Nytt i HTML5/Semantiska element (del 1 & 2 av kursen)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+* [Nytt i HTML5/Semantiska element (del 1 - Overview & Update samt del 2 - HTML5 Elements)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
 * [Clean Code/Accessibility (del 5)](https://app.pluralsight.com/ilx/video-courses/8931e14f-58e5-4a59-b8c1-d8d1ddfd3ba8/00be1ca4-1cca-49d0-bd19-2cd6931f9ebb/06125ef3-cc36-4490-a93d-e7147305a13b)
 * [Accessible navigation (del 6)](https://app.pluralsight.com/ilx/video-courses/1973ad45-0e12-4833-8a2a-b698256b7ffd/aece0a71-44be-4e73-900d-0018bb044ade/b4b6156b-3563-4504-be53-1e3f88fe429a)
 * [WAVE extension genomgång](https://app.pluralsight.com/ilx/video-courses/92e5a2e9-02ba-44d3-80f7-7992e6d9512d/d4c9e95a-c0cc-4120-8c4e-84442e451a7d/81c79172-91fe-46fe-818e-dbb37cc7045b)

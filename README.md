@@ -19,7 +19,7 @@
 * [WAVE extension genomgång](https://app.pluralsight.com/ilx/video-courses/92e5a2e9-02ba-44d3-80f7-7992e6d9512d/d4c9e95a-c0cc-4120-8c4e-84442e451a7d/81c79172-91fe-46fe-818e-dbb37cc7045b)
 * Extra (om du vill och behöver) - [HTML & CSS](https://app.pluralsight.com/paths/skill/html-and-css)
 * Extra - [HTML & CSS Interactive](https://app.pluralsight.com/library/courses/html-css-basic-website/table-of-contents)
-* Extra - [Debugging Sites with Chrome DevTools](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents)
+* Extra - [Debugging Sites with Chrome DevTools (strunta i det om node.js så länge](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents)
 #### Youtube
 * [CSS Box model](https://www.youtube.com/watch?v=nSst4-WbEZk)
 * [CSS pseudo classes - :is(), :where(), :has()](https://www.youtube.com/watch?v=3ncFpP8GP4g)

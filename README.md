@@ -48,4 +48,4 @@
 * [Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektionsrepo-26-11-kodexempel-html-semantik-)- Semantisk HTML och landmarks codealong-kodexexempel
 * [Onsdag](https://github.com/Lexicon-frontend-2024-2025/lecture-27-nov/blob/main/README.md) - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag](https://github.com/Lexicon-frontend-2024-2025/lecture-28-nov/blob/main/README.md) - Box-modellen, positionering, logical properties
-* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2024-2025/code-review-instruktioner) på recept-övningen (2 stars and a wish) ni fick under ToK. Genomgång av CSS-selektorer
+* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2024-2025/code-review-instruktioner) på recept-övningen (2 stars and a wish) ni fick under ToK.

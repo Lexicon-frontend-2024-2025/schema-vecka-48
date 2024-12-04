@@ -33,14 +33,12 @@
 
 ## Övningar
 * [HTML5 elements challenges](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/4587d9b6-badd-43dd-87a2-2b04df9258f6/9cf34da2-a2b0-4c61-8136-5edc75928667)
-* [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer)
 * [Semantisk html](https://github.com/Lexicon-frontend-2024-2025/hobby-html--vning/blob/main/README.md)
 * [Manuell tillgänglighetstestning](https://github.com/Lexicon-frontend-2024-2025/uppgift-tillg-nglighetsgranskning/blob/main/README.md)
 
 ## Slides
 * [Intro till kursen](https://docs.google.com/presentation/d/1tsH95pL3ailFghCljPgBz0IiEmjFP4BSwFan8s9vjvA/edit?usp=sharing)
 * [Intro, HTML](https://docs.google.com/presentation/d/1c8aKRb-ZdfwApzSCnjhKsL3kFGmIdqBJgBV_1OaJrtI/edit#slide=id.g5fd0d48a39_2_73)
-* [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
 * [Layout mindset](https://docs.google.com/presentation/d/1PFbZRFADmdoNMNKOK9pLxfmdl87-CSVipjwhV1IKcPc/edit#slide=id.g33d96f2301_0_16)
 * [HTML, semantik](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
 
